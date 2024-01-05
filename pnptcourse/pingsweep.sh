@@ -1,5 +1,5 @@
 
-text
+# does a basic ping sweep of supplied network
 #!/bin/bash
 
 if [ "$1" == "" ]
