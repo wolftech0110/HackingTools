@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.claude/settings.local.json
+AdventOfCyber/0.pcap
+CLAUDE.md
