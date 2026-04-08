@@ -130,3 +130,7 @@ dmypy.json
 .claude/settings.local.json
 AdventOfCyber/0.pcap
 CLAUDE.md
+
+# Wordlists (use system wordlists, don't track in repo)
+rockyou.txt
+*.wordlist
